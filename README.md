@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋 I am Ahmed Elarosi
 
-<!--
-**Ahmed-Elarosi/Ahmed-Elarosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>A Fullstack Web Developer student at <a href="https://digitalcareerinstitute.org">DCI Digital Career Institute gGmbH</a> 😊</br>
+</em></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap", "Material UI", "Sass", "Styled-components"],
+         UI/UX: ["Figma"]
+      },
+      backEnd: {
+         js: ["Node", "Express"]
+         },
+      databases: ["MongoDB", "mySQL"],
+      mobile: ["React Native"],
+      
+      Other: ["Agile Development","Project Management"]
+      
+      
+   },
+   currentOccupation: ["Student, looking for a new challenge & open for job opportunities"],
+   
+};
+```
