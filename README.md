@@ -17,7 +17,7 @@ const aboutMe = {
          js: ["Node", "Express"]
          },
       databases: ["MongoDB", "mySQL"],
-      mobile: ["Flutter"],
+      mobile: ["React Native","Flutter"],
       
       Other: ["Agile Development","Project Management"]
       
