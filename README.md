@@ -20,7 +20,7 @@ const aboutMe = {
       mobile: ["React Native","Flutter"],
       
       Other: ["Agile Development","Project Management"],
-Learning: ["React Native", "Dart","Flutter" ] 
+      Learning: ["React Native", "Dart","Flutter" ] 
 
       
       
