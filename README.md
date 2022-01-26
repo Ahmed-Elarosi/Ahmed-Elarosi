@@ -17,10 +17,13 @@ const aboutMe = {
          js: ["Node", "Express"]
          },
       databases: ["MongoDB", "mySQL"],
-      mobile: ["React Native","Flutter"],
       
       Other: ["Agile Development","Project Management"],
-      Learning: ["React Native", "Dart","Flutter" ] 
+      
+      Learning { 
+         mobile: ["React Native", "Dart","Flutter"],
+         Cloud: ["AWS"]
+            },
 
       
       
