@@ -6,7 +6,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Dart],
+   code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React"],
@@ -19,7 +19,9 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL"],
       mobile: ["React Native","Flutter"],
       
-      Other: ["Agile Development","Project Management"]
+      Other: ["Agile Development","Project Management"],
+Learning: ["React Native", "Dart","Flutter" ] 
+
       
       
    },
