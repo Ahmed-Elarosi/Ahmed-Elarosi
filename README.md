@@ -20,7 +20,7 @@ const aboutMe = {
       
       Other: ["Agile Development","Project Management"],
       
-      Learning { 
+      Learning: { 
          mobile: ["React Native", "Dart","Flutter"],
          Cloud: ["AWS"]
             },
