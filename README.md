@@ -22,7 +22,7 @@ const aboutMe = {
       
       Learning: { 
          mobile: ["React Native", "Dart","Flutter"],
-         Cloud: ["AWS"]
+         Cloud:  ["AWS"]
             },
 
       
