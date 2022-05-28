@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ahmed Elarosi
 
-<p><em>A Fullstack Web Developer student at <a href="https://digitalcareerinstitute.org">DCI Digital Career Institute gGmbH</a> 😊</br>
+<p><em>A JR Fullstack Web Developer😊</br>
 </em></p>
 
 ```javascript
@@ -28,7 +28,7 @@ const aboutMe = {
       
       
    },
-   currentOccupation: ["Student, looking for a new challenge & open for job opportunities"],
+   currentOccupation: ["looking for a new challenge & open for job opportunities"],
    
 };
 ```
