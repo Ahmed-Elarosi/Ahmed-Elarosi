@@ -19,8 +19,6 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL"],
       
       Other: ["Agile Development","Project Management"], 
-   },
-   
-   
+   },  
 };
 ```
