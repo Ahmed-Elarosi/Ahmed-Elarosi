@@ -18,17 +18,9 @@ const aboutMe = {
          },
       databases: ["MongoDB", "mySQL"],
       
-      Other: ["Agile Development","Project Management"],
-      
-      Learning: { 
-         mobile: ["React Native", "Dart","Flutter"],
-         Cloud:  ["AWS"]
-            },
-
-      
-      
+      Other: ["Agile Development","Project Management"], 
    },
-   currentOccupation: ["looking for a new challenge & open for job opportunities"],
+   
    
 };
 ```
