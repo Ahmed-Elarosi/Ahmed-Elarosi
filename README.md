@@ -1,24 +1,25 @@
 ### Hi there 👋 I am Ahmed Elarosi
 
-<p><em> Software Developer 😊</br>
+<p><em> I'm a junior software developer with a passion for building cool web apps that solve problems. 😊</br>
 </em></p>
 
 ```javascript
-const aboutMe = {
+const about me = {
    pronouns: "he" | "him",
-   code: [Javascript, TypeScript, HTML, CSS ],
-   technologies: {
-      frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap", "Material UI", "Sass", "Styled-components"],
+
+   Programming_Languages: ["Python", "Javascript"],   
+
+   Web_Development: {
+         Js: ["React", "TypeScript", "Web Components"],
+         Css: ["Bootstrap", "Material UI", "Sass", "Styled-components"],
          UI/UX: ["Figma"]
       },
-      backEnd: {
-         js: ["Node", "Express"]
-         },
-      databases: ["MongoDB", "mySQL"],
-      
-      Other: ["Agile Development","Project Management"], 
-   },  
+
+   DevOps_Tools: ["Jenkins", "Docker", "Kafka", "MongoDB"],
+
+   Version_Control: ["Git"], 
+
+   Other: ["Agile Development", "Project Management"], 
+   
 };
 ```
