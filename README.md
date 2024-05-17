@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ahmed Elarosi
 
-<p><em>A JR Fullstack Web Developer😊</br>
+<p><em> Software Developer 😊</br>
 </em></p>
 
 ```javascript
